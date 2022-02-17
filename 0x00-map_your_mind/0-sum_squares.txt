@@ -1,0 +1,9 @@
+Read N.
+Let tr = 0, sum = 0.
+Read Num.
+ctr = ctr + 1.
+Compute the square of the number i.e. = sqr (Num * Num).
+sum = sum * sqr.
+If tr is less than N then repeat steps 3 to 6.
+Print sum.
+End.
